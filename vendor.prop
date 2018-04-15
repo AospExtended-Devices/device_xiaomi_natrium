@@ -1,4 +1,5 @@
 # Camera
+persist.camera.HAL3.enabled=1
 persist.camera.cs.br=0.7
 vendor.camera.aux.packagelist=org.codeaurora.snapcam,com.android.camera,com.miui.cit,org.lineageos.snap
 
